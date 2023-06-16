@@ -1,0 +1,18 @@
+button{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.local-storage{
+   padding: 20px;
+    margin-left: 20px;
+    background-color: beige;
+    height: 300px;
+    width: 500px;
+   
+}
+
+.store-container{
+    
+    margin-left: 120px;
+}
